@@ -23,6 +23,6 @@ Do not use it against systems you do not own or have explicit permission to test
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/<your-username>/port-scanner.git
+git clone https://github.com/ArsalnAhmd/InlighnX-Internship-Port-Scanner-Project
 cd port-scanner
 pip install -r requirements.txt
